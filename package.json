@@ -1,0 +1,21 @@
+{
+  "name": "@skysbl/javalogger",
+  "version": "0.0.1",
+  "description": "A console system which is similar to java (minecraft java)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "author": "SBL",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "url": "github.com/skysbl/javalogger.git",
+    "type": "git"
+  }
+}
